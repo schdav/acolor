@@ -13,4 +13,4 @@ acolor computes the average color of a jpeg image.
 
 ## Why exponentiations and square roots?
 These mathematical operations are needed to calculate the most accurate average color.  
-(See [Computer Color is Broken](https://www.youtube.com/watch?v=LKnqECcg6Gw))
+(see [Computer Color is Broken](https://www.youtube.com/watch?v=LKnqECcg6Gw))
