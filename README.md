@@ -7,9 +7,11 @@
 acolor computes the average color of a jpeg image.
 
 ## How to use?
+`go mod init`
+
 `go build`
 
-`./acolor IMAGE`
+`./main IMAGE`
 
 ## Why exponentiations and square roots?
 These mathematical operations are needed to calculate the most accurate average color.  
