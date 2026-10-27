@@ -1,4 +1,5 @@
 # acolor
+
 ![GitHub top language](https://img.shields.io/github/languages/top/schdav/acolor.svg)
 ![license](https://img.shields.io/github/license/schdav/acolor.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/schdav/acolor.svg)
@@ -7,6 +8,7 @@
 acolor computes the average color of a jpeg image.
 
 ## How to use?
+
 `go mod init`
 
 `go build`
@@ -14,5 +16,6 @@ acolor computes the average color of a jpeg image.
 `./main IMAGE`
 
 ## Why exponentiations and square roots?
+
 These mathematical operations are needed to calculate the most accurate average color.  
 (see [Computer Color is Broken](https://www.youtube.com/watch?v=LKnqECcg6Gw))
